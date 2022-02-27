@@ -1,6 +1,5 @@
 # roller_dice
-
-A new Flutter project.
+It is a very Basic Flutter Application to understand the basic of Flutter Framework and Dart as A language, In this Application a Button is Assigned to switch the Images of Dice which simulates the rolling of Dice, it is Fun to Build basic Application in Flutter
 
 ## Getting Started
 
